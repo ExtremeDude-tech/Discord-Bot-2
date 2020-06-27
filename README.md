@@ -8,9 +8,9 @@
 ║                 Coded by Extremedev                   ║
 ╚═══════════════════════════════════════════════════════╝
 ```
-Language:\n
+# Language:
   Python 3x
-Author:\n
+# Author:
   ExtremeDev
-Description:\n
+# Description:
   Discord Bot
